@@ -157,6 +157,7 @@ All of these functions and many more are closely integrated with Azure to allow 
 
 
 **Continue in the following Link**
+[Coursera Documentation](https://www.coursera.org/learn/microsoft-azure-cloud-services/supplement/GqCnM/list-of-azure-services)
 
 
 
