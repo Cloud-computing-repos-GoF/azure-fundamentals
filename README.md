@@ -90,6 +90,35 @@ wide variety of data types and volumes
 |Azure Cache for Redis| Fully managed service caches frequently used and static data to reduce data and application latency|
 |Azure Database for MariaDB| Fully managed and scalable MariaDB relational Database with high availability and security|
 
+### Web
+Support to build and host web applications and HTTP-based web services.
+
+|**Service Name**|**Service Function**|
+|:---:|:---:|
+|Azure App Service| Quickly create powerful cloud-based apps|
+|Azure Notification hubs| Send push notifications to any platform from any back end|
+|Azure API Management| Publish APIs to developers, partnets, and employees securely and at scale|
+|Azure Cognitive Search|Deploy this fully managed search as a service|
+|Web Apps feature of Azure App Service| Create and deploy mission-critical web app at scale|
+|Azure SignalR Service| Add real-time web functionality easily|
+
+### Internet of Things
+Garner and raly information for data analysis
+
+|**Service Name**|**Service Functionality**|
+|:---:|:---:|
+|IoT Central| Fully managed IoT Software as a Service SaaS solution that makes it easy to connect, monitor and managed IoT assets at scale|
+|Azure IoT Hub|Messaging hub that provides secure communications between and monitoring of millions of IoT devices|
+|IoT Edge| Fully managed service thata allows data analysis models to be pushed directly onto IoT devices, which allows them to react quickly to state changes without needing to consult cloud-based AI models|
+
+
+.  
+.  
+.  
+
+
+**Continue in the following Link**
+
 
 
 
