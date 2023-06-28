@@ -47,5 +47,53 @@ Linking compute resources and providing access to applications. Connect the outs
 |Azure Virtual WAN| creates a unified wide area network (WAN) that connects local and remote sites| 
 
 
+### Storage
+
+provides four types of storage services
+
+|**Service Name** | **Service Function**|
+|:---:|:---:|
+|Azure Blob storage| Storage service for very large objects, such as video files or bitmaps|
+|Azure File Storage| File shares that can be accessed and managed like a file server|
+|Azure Queue storage|A data store for queuing and reliably delivering messages between applications|
+|Azure Table storage| A noSQL store that host unstructured data independent of any schema|
+
+These services all share several common characteristics:
+* **Durable**  and high available with redundancy and replication      
+* **Secure**  through automatic encryption and role-based access control  
+* **Managed** , handling maintenance and any critical problems for you   
+* **Accessible**  from anywhere in the world over HTTP or HTTPS  
+
+### Mobile
+
+To create Mobile backend services for iOS, Android, and windows apps quickly and easily
+
+This service include:
+* Offline data synchronization  
+* Connectivity to on-premises data  
+* Broadcasting push notifications  
+* Autoscaling to match business needs
+
+### Databases
+
+wide variety of data types and volumes
+
+|**Service Name**| **Service Function**|
+|:---:|:---:|
+|Azure Cosmos DB|Globally distributed database that supports NoSQL options|
+|Azure SQL Database|Fully Managed relational database  with autoscale, integral intelligence, and robust security|
+|Azure Database for MySQL| Fully managed and scalable MySQL database with high availability and security|
+|Azure database for postgreSQL| Fully managed and scalable postgres database with high availability and security |
+|SQL Server on Azure VMs| Service that hosts enterprise SQL server app in the cloud|
+|Azure Synapse Analytics| Fully managed data warehouse with integral security at every level of scale at no extra cost|
+|Azure Database Migration Service| Service that migrates databases to the cloud with no application code changes|
+|Azure Cache for Redis| Fully managed service caches frequently used and static data to reduce data and application latency|
+|Azure Database for MariaDB| Fully managed and scalable MariaDB relational Database with high availability and security|
+
+
+
+
+
+
 
 
