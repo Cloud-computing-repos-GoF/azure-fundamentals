@@ -162,8 +162,15 @@ All of these functions and many more are closely integrated with Azure to allow 
 
 ![Azure Subscription](https://github.com/Cloud-computing-repos-GoF/azure-fundamentals/blob/master/images/hierarchy_azure_account.png)
 
+# Additional Reading Resources:
+
+1. [learn microsoft](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/):
+
+    a) Deployment models (Public, Private, Hybrid): [Deployment Models](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/2-public-private-hybrid)
+    b) Cloud Service Models (IaaS, PaaS, SaaS): [Cloud Service Models](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/3-service-models)
 
 
+![Responsibility Model for Services](https://github.com/Cloud-computing-repos-GoF/azure-fundamentals/blob/master/images/modelo_responsabilidad.png)
 
 
 
