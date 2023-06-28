@@ -155,6 +155,16 @@ All of these functions and many more are closely integrated with Azure to allow 
 |Azure DevTest Labs| Quickly create on-demand Windows and Linux environments to test or demo applications directly from deployment pipelines|
 
 
+### Cloud Computing Categories
+- IaaS  
+- PaaS  
+- SaaS  
+
+### Cloud Computing Types
+- Public   
+- Private    
+- Hybrid   
+
 
 **Continue in the following Link**
 [Coursera Documentation](https://www.coursera.org/learn/microsoft-azure-cloud-services/supplement/GqCnM/list-of-azure-services)
@@ -164,17 +174,24 @@ All of these functions and many more are closely integrated with Azure to allow 
 
 # Additional Reading Resources:
 
-1. [learn microsoft](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/):
+1. Microsoft learn Website [learn microsoft](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/):
 
-    a) Deployment models (Public, Private, Hybrid): [Deployment Models](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/2-public-private-hybrid)
+    a) Deployment models for Cloud Computing (Public, Private, Hybrid): [Deployment Models](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/2-public-private-hybrid)   
     b) Cloud Service Models (IaaS, PaaS, SaaS): [Cloud Service Models](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/3-service-models)
 
+2. Infraestructure as a Service IaaS: [Azure Documentation IaaS](https://azure.microsoft.com/es-mx/resources/cloud-computing-dictionary/what-is-iaas/)
 
-![Responsibility Model for Services](https://github.com/Cloud-computing-repos-GoF/azure-fundamentals/blob/master/images/modelo_responsabilidad.png)
+3. Platform as a service PaaS: [Azure Documentation PaaS](https://azure.microsoft.com/es-mx/resources/cloud-computing-dictionary/what-is-paas/)
+
+4. Software as a Service SaaS: [Azure Documentation SaaS](https://azure.microsoft.com/es-mx/resources/cloud-computing-dictionary/what-is-saas/)
+
+5. Serverless Computing: [Azure Documentation Serverless](https://azure.microsoft.com/es-mx/resources/cloud-computing-dictionary/what-is-serverless-computing/)
+
+![Responsibility Levels for Services](https://github.com/Cloud-computing-repos-GoF/azure-fundamentals/blob/master/images/modelo_responsabilidad.png)
 
 
+6. Cloud Benefits: [Cloud Benefits](https://learn.microsoft.com/en-us/training/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 
+### Learning Path to AZ-900 certification
 
-
-
-
+[link](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
