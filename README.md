@@ -160,7 +160,7 @@ All of these functions and many more are closely integrated with Azure to allow 
 [Coursera Documentation](https://www.coursera.org/learn/microsoft-azure-cloud-services/supplement/GqCnM/list-of-azure-services)
 
 
-![Azure Subscription](https://github.com/Cloud-computing-repos-GoF/azure-fundamentals/tree/master/images/hierarchy_azure_account.png)
+![Azure Subscription](https://github.com/Cloud-computing-repos-GoF/azure-fundamentals/blob/master/images/hierarchy_azure_account.png)
 
 
 
