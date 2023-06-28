@@ -103,7 +103,7 @@ Support to build and host web applications and HTTP-based web services.
 |Azure SignalR Service| Add real-time web functionality easily|
 
 ### Internet of Things
-Garner and raly information for data analysis
+Garner and relay information for data analysis
 
 |**Service Name**|**Service Functionality**|
 |:---:|:---:|
@@ -112,9 +112,48 @@ Garner and raly information for data analysis
 |IoT Edge| Fully managed service thata allows data analysis models to be pushed directly onto IoT devices, which allows them to react quickly to state changes without needing to consult cloud-based AI models|
 
 
-.  
-.  
-.  
+### Big Data
+
+Open-source cluster technologies to deal with large data sets.
+
+|**Service Name**|**Service Functionality**|
+|:---:|:---:|
+|Azure Sypnase Analytics| Run analytics at a massive scale by using a cloud-based enterprise data warehouse that takes advantage of massively parallel processing to run complex queries quickly|
+|Azure HDInsight| Process massive amounts of data with managed clusters of Hadoop clusters in the cloud|
+|Azure DataBricks| Integrate this collaborative Apache Spark-based analytics with other big data services in Azure|
+
+### Artificial Intelligence AI
+
+Services with a Machine Learning core. 
+
+|**Service Name**|**Service Functionality**|
+|:---:|:---:|
+|Azure Machine Learning Service|Cloud-based environment you can use to develop, train, test, deploy, manage and track machine learning models. It can auto-generate a model and auto-tune it for you. It will let you start training in your local machine, and then scale to the cloud|
+|Azure Machine Learning Studio|Collaborative visual workspace where you can build, test and deploy ML algorithms|
+
+Prebuilt APIs for your applications
+
+|**Service Name**|**Service Functionality**|
+|:---:|:---:|
+|Vision|Image-processing to smartly identify, caption, and moderate your pictures and videos|
+|Speech|Convert spoken audio into text, use voice for verification, or add speaker recognition to your app|
+|Knowledge mapping|Map complex information and data to solve task such as intelligent recommendations and semantic search|
+|Bing Search|Add Bing Search APIs to your apps and harness the ability to comb billions of webpages, images, videos, and news with a single API call|
+|Natural language Processing| Allows your app to process natural language with pre-built scripts, evaluate sentiment and learn how to recognize what users want|
+
+
+### DevOps
+Brings together people, processes and technology by automating software delivery to provide continuos value to your users. You can create **build** and **release** pipelines that provide continuos integration **CI**, delivery and deployment of your applications.  You can integrate repositories and application test, perform application monitoring, and work with artifacts. You can work with and backlog items for tracking, automate infrastructure deployment and integrate a range third-party tools and services such as Jenkins and Chef.  
+
+All of these functions and many more are closely integrated with Azure to allow for consistent, repeatable deployments for your applications to provide streamlined build and release processes.
+
+
+
+|**Service Name**|**Service Functionality**|
+|:---:|:---:|
+|Azure DevOps| pipelines,free private Git repositories, boards, and cloud-based load testing. Formerly known as **Visual Studio Team Services**|
+|Azure DevTest Labs| Quickly create on-demand Windows and Linux environments to test or demo applications directly from deployment pipelines|
+
 
 
 **Continue in the following Link**
