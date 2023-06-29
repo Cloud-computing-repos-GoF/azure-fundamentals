@@ -179,7 +179,13 @@ All of these functions and many more are closely integrated with Azure to allow 
     a) Deployment models for Cloud Computing (Public, Private, Hybrid): [Deployment Models](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/2-public-private-hybrid)   
     b) Cloud Service Models (IaaS, PaaS, SaaS): [Cloud Service Models](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/3-service-models)  
     c) Build a cloud governance strategy on Azure: [Azure policy Resource Groups](https://learn.microsoft.com/en-us/training/modules/build-cloud-governance-strategy-azure/)  
-    d)
+    d) Azure Resource Manager Templates: [ARM Templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/)   
+    e) Azure architectural Components: [Core Architectural Components](https://learn.microsoft.com/en-us/training/modules/azure-architecture-fundamentals/)  
+    f) Azure Resource Manager: [ARM](https://learn.microsoft.com/en-us/training/modules/control-and-organize-with-azure-resource-manager/)  
+    g) Azure management and Governance: [Azure Management](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)  
+    h) Regions and Availability zones: [Regions](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)   
+    i) Management Groups: [Management Groups](https://learn.microsoft.com/en-us/azure/governance/management-groups/overview)   
+    
 
 2. Infraestructure as a Service IaaS: [Azure Documentation IaaS](https://azure.microsoft.com/es-mx/resources/cloud-computing-dictionary/what-is-iaas/)
 
@@ -240,6 +246,10 @@ One way to organize related resources is to place them in their own subscription
 
 
 You can also manage tags by using Azure Policy. For example, you can apply tags to a resource group, but those tags aren't automatically applied to the resources within that resource group. You can use Azure Policy to ensure that a resource inherits the same tags as its parent resource group.
+
+### Azure Policy
+
+Azure Policy is a service in Azure that enables you to create, assign, and manage policies that control or audit your resources. These policies enforce different rules across all of your resource configurations so that those configurations stay compliant with corporate standards.
 
 ### Learning Path to AZ-900 certification
 
