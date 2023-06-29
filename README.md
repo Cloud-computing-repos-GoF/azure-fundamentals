@@ -318,7 +318,34 @@ Differences between functions and Logic Apps
     6. Filter Network Traffic (Network Security Groups, Network Virtual Appliances)    
     7. Connect Virtual Networks   
 
-- Azure VPN Gateway  
+- Azure VPN Gateway :
+    1. policy-based    
+    2. Route-based :   
+        * IKEv2 support   
+        * Wildcard traffic selector   
+        * Dynamic routing protocols 
+
+    - Sizes:
+
+    |**SKU (Stop Keeping Unit)**|**Site2site Network2network tunnels**| **Aggregate throughput benchmark**| **Border Gateway protocol**|
+    |:---:|:---:|:---:|:---:|
+    |Basic| Max 10| 100 Mbps| Not Supported|
+    |VpnGW1|30|650Mbps|Supported|
+    |VpnGW2|30|1Gbps|Supported|
+    |VpnGW3|30|1.25 Gbps| Supported|
+
+
+    - Requirements:
+         1. Virtual Network Vnet
+         2. Gateway subnet   
+         3. Public IP address   
+         4. Local Network Gateway  
+         5. Virtual Network Gateway   
+         6. Connection Resource    
+
+
+![Responsibility Levels for Services](https://github.com/Cloud-computing-repos-GoF/azure-fundamentals/blob/master/images/vpn_azure.png)
+
 - Azure ExpressRoute
 
 
