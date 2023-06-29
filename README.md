@@ -200,6 +200,15 @@ All of these functions and many more are closely integrated with Azure to allow 
 
 6. Cloud Benefits: [Cloud Benefits](https://learn.microsoft.com/en-us/training/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 
+7. [Azure Compute](https://azure.microsoft.com/es-mx/products/category/compute/)   
+8. [Virtual MAchines](https://learn.microsoft.com/en-us/azure/virtual-machines/)   
+9. [App Service](https://learn.microsoft.com/en-us/azure/app-service/)   
+10. [Azure Container Instances](https://azure.microsoft.com/es-mx/products/container-instances/)   
+11. [Azure Kubernetes Service](https://azure.microsoft.com/es-mx/products/kubernetes-service/)   
+12. [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/)   
+13. [Windows Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/)   
+14. []() 
+
 
 ## Azure Role-Based Access Control RBAC
 
@@ -285,6 +294,9 @@ Differences between functions and Logic Apps
 |Management|REST API, Visual Studio| Azure Portal, REST API, Power Shell, Visual Studio|
 |Execution Context|Can run locally or in the cloud| Runs only in the cloud|
 
+# Azure Storage
+
+## Azure Storage Account
 
 
 [Additional readings](https://www.coursera.org/learn/microsoft-azure-cloud-services/supplement/raOsc/additional-reading)
