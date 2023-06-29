@@ -306,6 +306,28 @@ Differences between functions and Logic Apps
 ## Azure Storage Account
 
 
+### Networking Fundamentals
+
+- Azure Virtual Networks:     
+    Benefits:   
+    1. Isolation and Segmentation (subnets)     
+    2. Internet Communications   
+    3. Communicate between Azure Resources (Virtual Networks, service Endpoints)     
+    4. Communicate with on-premises resources (point2site vpn, site2site vpn, ExpressRoute)  
+    5. Route Network Traffic   
+    6. Filter Network Traffic (Network Security Groups, Network Virtual Appliances)    
+    7. Connect Virtual Networks   
+
+- Azure VPN Gateway  
+- Azure ExpressRoute
+
+
+DNS Communications   
+UDR  
+network Security Group  
+Route Table  
+
+
 [Additional readings](https://www.coursera.org/learn/microsoft-azure-cloud-services/supplement/raOsc/additional-reading)
 
 
