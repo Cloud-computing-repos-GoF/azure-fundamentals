@@ -296,6 +296,13 @@ Differences between functions and Logic Apps
 
 # Azure Storage
 
+- Disk Storage   
+- Files Storage  
+- Blob Storage  
+
+- tiers (hot, cool, Archive)
+
+
 ## Azure Storage Account
 
 
