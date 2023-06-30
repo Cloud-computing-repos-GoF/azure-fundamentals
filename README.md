@@ -358,9 +358,69 @@ Route Table
 [Additional readings](https://www.coursera.org/learn/microsoft-azure-cloud-services/supplement/raOsc/additional-reading)
 
 
+# MODULE 2
+
+# AI Services & Solutions
+
+- Deep Learning   
+- Machine Learning  
+
+Azure Products:   
+
+* Azure Machine Learning: for making predictions:    
+    1. Build   
+    2. Deliver  
+    3. Train   
+    4. Evaluate   
+    5. Create pipelines  
+    6. Deploy as an Endpoint  
+
+*  Azure Cognitive Services : prebuilt machine learning models (analyse text, images, etc) 
+     - Azure cognitive services personalizer.   
+     - Azure cognitive services Translator service.  
+
+
+### Categories:
+
+- Language   
+- Speech   
+- Vision   
+- Decision  
+
+* Azure Bot Service and Bot Framework: platforms for creating virtual agents.
+
+Reading resources:
+
+[Azure Cognitive Services](https://learn.microsoft.com/es-mx/azure/cognitive-services/what-are-cognitive-services?azure-portal=true)
+
+[Cognitive Services Personalizer](https://azure.microsoft.com/es-mx/products/cognitive-services/personalizer/?azure-portal=true)   
+
+[Language Understanding](https://www.luis.ai/?azure-portal=true)   
+
+
+
+
+
+
+# Monitoring & Managing in Azure
+
+# Azure Serverless Technology & Azure IoT solutions
+
+# General Security & Network Security
+
+
+
+
 ### Learning Path to AZ-900 certification
 
 [link](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+
+[Developer Certification path](https://learn.microsoft.com/en-us/certifications/roles/developer)  
+
+[Administrator Certification path](https://learn.microsoft.com/en-us/certifications/roles/administrator)   
+
+[DevOps Engineer path](https://learn.microsoft.com/en-us/certifications/devops-engineer/)   
+
 
 ## Exercises to do
 
