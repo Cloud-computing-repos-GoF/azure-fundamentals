@@ -509,10 +509,29 @@ Services:
     * Azure Sphere microcontroller unit.  
     * Customize linux operating systems that handles communication.  
     * Azure sphere security services. 
-    
+
 [Development kits for Azure Sphere](https://azure.microsoft.com/es-mx/products/azure-sphere/get-started/) 
 
 
+
+# Protecting Security Threats 
+
+### Azure Security Center
+
+### Azure Sentinel
+
+### Azure Key-Vault (secrets)
+
+
+
+
+# Secure Network Connectivity
+
+### Azure Firewall
+
+### Azure DDoS protection 
+
+### network Security Groups
 
 
 
