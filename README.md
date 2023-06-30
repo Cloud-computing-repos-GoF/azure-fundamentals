@@ -409,6 +409,15 @@ Reading resources:
 # Azure DevTest Labs
 
 
+# Monitoring Services in Azure
+
+![Responsibility Levels for Services](https://github.com/Cloud-computing-repos-GoF/azure-fundamentals/blob/master/images/monitoring_goals.png)
+## Azure Monitoring
+
+
+## Azure Advisor
+
+## Azure Service Health 
 
 
 
