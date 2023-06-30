@@ -505,7 +505,7 @@ Messaging to an API. The Message of the machine sends (IoT devices: collect and 
 Services:  
 - Azure IoT Hub: two way communication (IoT device 2 cloud). Command and Control. Tracking events (creations, failures, connections)      
 - Azure IoT Central: Add a Dashboard to IoT Hub. Could use device templates.   
-- Azure Sphere: End 2 end highly secure IoT solution for customers:
+- Azure Sphere: End 2 end highly secure IoT solution for customers (Secure channel):
     * Azure Sphere microcontroller unit.  
     * Customize linux operating systems that handles communication.  
     * Azure sphere security services.  
