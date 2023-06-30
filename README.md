@@ -442,11 +442,19 @@ Reading resources:
 
 # Resource Management
 
-### Azure CLI
+### 1. Azure CLI
 
-### Azure PowerShell
+### 2. Azure PowerShell
 
-### Azure Portal
+### 3. Azure Portal
+
+### 4. Azure Mobile App
+
+### 5. Azure Resource Manager (ARM) Templates 
+- Describe Reources needed (Declarative JSON format)   
+- Verify Template   
+- Create Resources in Parallel   
+
 
 
 
