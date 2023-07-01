@@ -581,10 +581,10 @@ A dedicated host is a solution to regulatory compliance that requires some organ
 Layers of defense in depth:
 1. Physical Security   
 2. Identity and Access   
-3. Perimeter   
-4. Network   
-5. Compute    
-6. Application  
+3. Perimeter  (Use DDoS protection, perimeter firewalls)   
+4. Network (limit communications)     
+5. Compute (endpoint protection)   
+6. Application (design requirement)   
 7. Data   
 
 
