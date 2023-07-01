@@ -638,4 +638,14 @@ Principles of a secure posture:
 [Data Engineer Associate DP-203](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering)   
 [AI fundamentals AI-900](https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals)   
 [Security Engineer Associate AZ-500](https://www.coursera.org/specializations/exam-prep-az-500-microsoft-azure-security-engineer-associate)   
-[Administrator Associate AZ-104](https://www.coursera.org/specializations/exam-prep-az-104-microsoft-azure-administrator-associate)   
+[Administrator Associate AZ-104](https://www.coursera.org/specializations/exam-prep-az-104-microsoft-azure-administrator-associate)  
+
+### Udemy Courses DEVOPS AZURE
+
+[Azure Devops para todos](https://www.udemy.com/course/azure-devops-para-todos/learn/lecture/31987518?start=0#overview)    
+[Devops y Cloud Azure Devops](https://www.udemy.com/course/azuredevopscloud/learn/lecture/29224790?start=0#overview)   
+[Azure Devops AZ-400 de cero a experto](https://www.udemy.com/course/azure-devops-de-cero-a-experto/learn/lecture/26023190?start=0#overview)     
+[Fundamentals AZ-900](https://www.udemy.com/course/az-900-azure-tutorial/learn/lecture/19477862?start=15#overview)     
+[Data Engineer DP-203 for beginners](https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982438?start=0#overview)      
+[Machine Learning with Azure DevOps](https://www.udemy.com/course/machine-learning-with-azure-devops/learn/lecture/30220760?start=0#overview)    
+
