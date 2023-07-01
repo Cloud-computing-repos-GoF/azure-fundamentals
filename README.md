@@ -628,12 +628,12 @@ Principles of a secure posture:
 
 ## Exercises to do
 
-1. [WordPress aapplication deploy](https://www.coursera.org/learn/microsoft-azure-cloud-services/supplement/TO8lR/exercise-create-a-website-hosted-in-azure)
+1. [WordPress application deploy](https://www.coursera.org/learn/microsoft-azure-cloud-services/supplement/TO8lR/exercise-create-a-website-hosted-in-azure)
 
 ### Links to Coursera Azure Specializations
 
-[fundamental AZ-900](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900)   
-[developer associate AZ-204](https://www.coursera.org/professional-certificates/azure-developer-associate)   
+[Fundamentals AZ-900](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900)   
+[Developer associate AZ-204](https://www.coursera.org/professional-certificates/azure-developer-associate)   
 [Data Scientist Associate DP-100](https://www.coursera.org/professional-certificates/azure-data-scientist)   
 [Data Engineer Associate DP-203](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering)   
 [AI fundamentals AI-900](https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals)   
