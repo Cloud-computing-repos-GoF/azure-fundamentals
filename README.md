@@ -632,10 +632,10 @@ Principles of a secure posture:
 
 ### Links to Coursera Azure Specializations
 
-[fundamental AZ-900](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900)
-[developer associate AZ-204](https://www.coursera.org/professional-certificates/azure-developer-associate)
-[Data Scientist Associate DP-100](https://www.coursera.org/professional-certificates/azure-data-scientist)
-[Data Engineer Associate DP-203](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering)
-[AI fundamentals AI-900](https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals)
-[Security Engineer Associate AZ-500](https://www.coursera.org/specializations/exam-prep-az-500-microsoft-azure-security-engineer-associate)
-[Administrator Associate AZ-104](https://www.coursera.org/specializations/exam-prep-az-104-microsoft-azure-administrator-associate)
+[fundamental AZ-900](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900)   
+[developer associate AZ-204](https://www.coursera.org/professional-certificates/azure-developer-associate)   
+[Data Scientist Associate DP-100](https://www.coursera.org/professional-certificates/azure-data-scientist)   
+[Data Engineer Associate DP-203](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering)   
+[AI fundamentals AI-900](https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals)   
+[Security Engineer Associate AZ-500](https://www.coursera.org/specializations/exam-prep-az-500-microsoft-azure-security-engineer-associate)   
+[Administrator Associate AZ-104](https://www.coursera.org/specializations/exam-prep-az-104-microsoft-azure-administrator-associate)   
