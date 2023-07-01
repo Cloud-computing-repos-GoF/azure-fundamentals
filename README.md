@@ -578,6 +578,16 @@ A dedicated host is a solution to regulatory compliance that requires some organ
 
 # Secure Network Connectivity
 
+Layers of defense in depth:
+1. Physical Security   
+2. Identity and Access   
+3. Perimeter   
+4. Network   
+5. Compute    
+6. Application  
+7. Data   
+
+
 ### Azure Firewall
 
 ### Azure DDoS protection 
