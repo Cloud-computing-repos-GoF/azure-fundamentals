@@ -588,6 +588,23 @@ Layers of defense in depth:
 7. Data   
 
 
+Principles of a secure posture:
+
+* Confidentiality:
+    - Least privilege
+    - Restrict access information
+    - user passwords
+    - Access level to applications and infrastructure
+
+
+* Integrity:
+    - prevent unauthorized changes to information
+    - One-way hasing algorithm
+
+* Availability:
+    - Ensure service functionality
+    - Are accessed only by authorized users
+
 ### Azure Firewall
 
 ### Azure DDoS protection 
