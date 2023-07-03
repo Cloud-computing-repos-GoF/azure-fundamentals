@@ -649,3 +649,7 @@ Principles of a secure posture:
 [Data Engineer DP-203 for beginners](https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982438?start=0#overview)      
 [Machine Learning with Azure DevOps](https://www.udemy.com/course/machine-learning-with-azure-devops/learn/lecture/30220760?start=0#overview)    
 
+
+# Full list Azure Certifications
+
+[listado Azure Certifications](https://learn.microsoft.com/es-es/certifications/practice-assessments-for-microsoft-certifications)
