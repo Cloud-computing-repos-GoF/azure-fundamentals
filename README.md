@@ -329,99 +329,10 @@ Differences between functions and Logic Apps
 
 
 
-# Internet of Things (IoT)
-
-Connecting physical and digital worlds.   
-
-Smart devices that collect data. Examples:  
-- Environmental sensors  
-- QR Code  
-- OCR scanner   
-- Geo-location and proximity sensors  
-- Infrared sensors    
-- Ultrasonic o sonic sensors   
-- Motion and touch sensors    
-- Accelometer or Tilt  Sensors   
-- Smoke, gas and alcohol Sensors  
-- Error Sensors
-- Mechanical Sensors  
-- Flow and Pressure Sensors  
-
-Messaging to an API. The Message of the machine sends (IoT devices: collect and send)  can be receive, store, organize and display by using Azure.
-
-Services:  
-- Azure IoT Hub: two way communication (IoT device 2 cloud). Command and Control. Tracking events (creations, failures, connections)      
-- Azure IoT Central: Add a Dashboard to IoT Hub. Could use device templates.   
-- Azure Sphere: End 2 end highly secure IoT solution for customers (Secure channel):
-    * Azure Sphere microcontroller unit.  
-    * Customize linux operating systems that handles communication.  
-    * Azure sphere security services. 
-
-[Development kits for Azure Sphere](https://azure.microsoft.com/es-mx/products/azure-sphere/get-started/) 
 
 
 
-# Protecting Security Threats 
 
-### Azure Security Center
-
-- Monitor Security Setting   
-- Automatically Apply security settings   
-- Provide Security Recommendations   
-- Continuosly Monitor your resources   
-- Use Machine Learning to prevent malware  
-- Detect inbound Attacks   
-- Just in time access control   
-
-Secure score: (percent %)
-- High
-- Medium 
-- Low
-
-1. Secure posture report   
-2. Improve your security poster    
-3. Benchmark capture and KPIs
-
-
-### Azure Sentinel
-
-Security Information and Event Management (**SIEM**)
-
-1. Collect cloud Data at scale   
-2. Detect threats, minimizing false positives      
-3. Investigate Threats with AI     
-4. Respond to incidents rapidly   
-
-Use connectors:  
-- Connect Microsoft Solutions    
-- Connect other services ans solutions    
-- Connect industry standard data sources  
-
-
-### Azure Key-Vault (secrets)
-
-Store and Manage Secrets (sensitive information).
-
-- Manage Secrets (tokens, password, certificates, API keys)
-- Manage encryption keys
-- Manage SSL/TLS certificates
-- Store secrets backed by hardware security modules  (HSMs)
-
-Benefits:
-- Centralized application secrets    
-- Securely stored secrets and keys     
-- Access monitoring and access control   
-- Simplified administration of application secrets    
-- Integration with other Azure Services   
-
-In practice, there are several ways to add secrets to and read secrets from Key Vault. You can use the Azure portal, the Azure CLI, or Azure PowerShell. 
-
-    $ az keyvault secret show --name MyPassword --vault-name my-keyvault-NNN --query value --output tsv
-
-
-### Azure dedicated Host
-
-A dedicated host is a solution to regulatory compliance that requires some organizations to be the only customer using the physical machine that hosts their virtual machines. 
 
 # Secure Network Connectivity
 
