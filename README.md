@@ -310,11 +310,6 @@ Differences between functions and Logic Apps
 
 # MODULE 2
 
- 
-
-
-
-
 
 
 
