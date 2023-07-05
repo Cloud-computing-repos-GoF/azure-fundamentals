@@ -59,3 +59,39 @@ In practice, there are several ways to add secrets to and read secrets from Key 
 ### Azure dedicated Host
 
 A dedicated host is a solution to regulatory compliance that requires some organizations to be the only customer using the physical machine that hosts their virtual machines. 
+
+
+# Secure Network Connectivity
+
+Layers of defense in depth:
+1. Physical Security   
+2. Identity and Access   
+3. Perimeter  (Use DDoS protection, perimeter firewalls)   
+4. Network (limit communications)     
+5. Compute (endpoint protection)   
+6. Application (design requirement)   
+7. Data   
+
+
+Principles of a secure posture:
+
+* Confidentiality:
+    - Least privilege
+    - Restrict access information
+    - user passwords
+    - Access level to applications and infrastructure
+
+
+* Integrity:
+    - prevent unauthorized changes to information
+    - One-way hasing algorithm
+
+* Availability:
+    - Ensure service functionality
+    - Are accessed only by authorized users
+
+### Azure Firewall
+
+### Azure DDoS protection 
+
+### network Security Groups
