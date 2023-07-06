@@ -125,8 +125,10 @@ more information in the following link:
 
 # Task
 
+
+code to deploy:  [url github](https://github.com/MicrosoftDocs/pipelines-dotnet-core)
 1. Configuracion Self-Hosted Agent  
-2. Pipeline simple usando yaml   (done)
+2. Pipeline simple usando yaml   (done with url github clone)  
 3. pipeline simple usando vista clasica (done)  
 4. 
 
