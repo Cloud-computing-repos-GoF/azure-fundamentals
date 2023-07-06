@@ -1,24 +1,42 @@
 # Azure Portal Services
 
-## Categories
+
+## Cloud Computing Categories
+- IaaS  
+- PaaS  
+- SaaS  
+
+## Cloud Computing Types
+- Public   
+- Private    
+- Hybrid   
+
+
+## Full list Azure Certifications
+
+[listado Azure Certifications](https://learn.microsoft.com/es-es/certifications/practice-assessments-for-microsoft-certifications)
+
+
+## Categories Azure Services
 
 - Compute 
 - Networking   
-- Storage 
-- Mobile 
-- DataBases  
-- Web  
-- Internet of Things  
-- Big Data  
-- Artificial Intelligence  
-- DevOps  
-
- 
+- Storage  
 - Mobile  
-- Databases  
+- DataBases   
+- Web    
+- Internet of Things   
+- Big Data   
+- Artificial Intelligence   
+- DevOps   
+- Mobile   
+- Databases   
 
 ### Compute 
 Hosting Applications and Services
+
+- Virtual Machines   
+- Kubernetes  
 
 | **Service Name** | **Service Function** | 
 | :---: | :---: | 
@@ -67,6 +85,9 @@ These services all share several common characteristics:
 * **Secure**  through automatic encryption and role-based access control  
 * **Managed** , handling maintenance and any critical problems for you   
 * **Accessible**  from anywhere in the world over HTTP or HTTPS  
+
+
+- tiers (hot, cool, Archive)
 
 ### Mobile
 
@@ -163,16 +184,6 @@ All of these functions and many more are closely integrated with Azure to allow 
 
 
 
-## Cloud Computing Categories
-- IaaS  
-- PaaS  
-- SaaS  
-
-## Cloud Computing Types
-- Public   
-- Private    
-- Hybrid   
-
 
 **Continue in the following Link**
 [Coursera Documentation](https://www.coursera.org/learn/microsoft-azure-cloud-services/supplement/GqCnM/list-of-azure-services)
@@ -219,81 +230,7 @@ All of these functions and many more are closely integrated with Azure to allow 
 
 
 
-
-# Data Base Services
-
-
-
-# Compute
-
-- Virtual Machines   
-- Kubernetes  
-
-# Serverless Computing
-
-Azure Functions  
-Azure Logic Apps  
-
-Functions and Logic Apps can both create complex orchestrations. An orchestration is a collection of functions or steps that are executed to accomplish a complex task.   
-
-- With Functions, you write code to complete each step.   
-
-- With Logic Apps, you use a GUI to define the actions and how they relate to one another (WorkFlow).   
-
-Differences between functions and Logic Apps
-
-|**Feature**|**Functions**|**Logic Apps**|
-|:---:|:---:|:---:|
-|State|Normally stateless, but durable Functions provide state| Stateful|
-|Development|Code-first (imperative)|Designer-first (Declarative)|
-|Connectivity|About a dozen built-in binding types. Write code for custom buildings|Large collection of connectors. Enterprise Integration Pack for B2B scenarios. Build custom connectors|
-|Actions|Each activity is an Azure Function. Write code for activity functions|Large collection of ready-made actions|
-|Monitoring|Azure Application insights|Azure portal, Log Analytics|
-|Management|REST API, Visual Studio| Azure Portal, REST API, Power Shell, Visual Studio|
-|Execution Context|Can run locally or in the cloud| Runs only in the cloud|
-
-# Azure Storage
-
-- Disk Storage   
-- Files Storage  
-- Blob Storage  
-
-- tiers (hot, cool, Archive)
-
-
-## Azure Storage Account
-
-
-
-
-# MODULE 2
-
-
-
-
-# Azure Serverless Technology & Azure IoT solutions
-
-# General Security & Network Security
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Learning Path to AZ-900 certification
+## Learning Path to AZ-900 certification
 
 [link](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
@@ -308,7 +245,7 @@ Differences between functions and Logic Apps
 
 1. [WordPress application deploy](https://www.coursera.org/learn/microsoft-azure-cloud-services/supplement/TO8lR/exercise-create-a-website-hosted-in-azure)
 
-### Links to Coursera Azure Specializations
+## Links to Coursera Azure Specializations
 
 [Fundamentals AZ-900](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900)   
 [Developer associate AZ-204](https://www.coursera.org/professional-certificates/azure-developer-associate)   
@@ -318,7 +255,7 @@ Differences between functions and Logic Apps
 [Security Engineer Associate AZ-500](https://www.coursera.org/specializations/exam-prep-az-500-microsoft-azure-security-engineer-associate)   
 [Administrator Associate AZ-104](https://www.coursera.org/specializations/exam-prep-az-104-microsoft-azure-administrator-associate)  
 
-### Udemy Courses DEVOPS AZURE
+## Udemy Courses DEVOPS AZURE
 
 [Azure Devops para todos](https://www.udemy.com/course/azure-devops-para-todos/learn/lecture/31987518?start=0#overview)    
 [Devops y Cloud Azure Devops](https://www.udemy.com/course/azuredevopscloud/learn/lecture/29224790?start=0#overview)   
@@ -328,6 +265,4 @@ Differences between functions and Logic Apps
 [Machine Learning with Azure DevOps](https://www.udemy.com/course/machine-learning-with-azure-devops/learn/lecture/30220760?start=0#overview)    
 
 
-# Full list Azure Certifications
 
-[listado Azure Certifications](https://learn.microsoft.com/es-es/certifications/practice-assessments-for-microsoft-certifications)
