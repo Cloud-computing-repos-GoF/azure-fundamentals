@@ -2,14 +2,18 @@
 
 ## Categories
 
-- Compute  
+- Compute 
+- Networking   
+- Storage 
+- Mobile 
+- DataBases  
 - Web  
 - Internet of Things  
 - Big Data  
 - Artificial Intelligence  
 - DevOps  
-- Networking  
-- Storage  
+
+ 
 - Mobile  
 - Databases  
 
@@ -155,12 +159,16 @@ All of these functions and many more are closely integrated with Azure to allow 
 |Azure DevTest Labs| Quickly create on-demand Windows and Linux environments to test or demo applications directly from deployment pipelines|
 
 
-### Cloud Computing Categories
+
+
+
+
+## Cloud Computing Categories
 - IaaS  
 - PaaS  
 - SaaS  
 
-### Cloud Computing Types
+## Cloud Computing Types
 - Public   
 - Private    
 - Hybrid   
@@ -172,7 +180,7 @@ All of these functions and many more are closely integrated with Azure to allow 
 
 ![Azure Subscription](https://github.com/Cloud-computing-repos-GoF/azure-fundamentals/blob/master/images/hierarchy_azure_account.png)
 
-# Additional Reading Resources:
+## Additional Reading Resources:
 
 1. Microsoft learn Website [learn microsoft](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/):
 
