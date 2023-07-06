@@ -123,6 +123,14 @@ more information in the following link:
 [Pipeline Agents Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&tabs=browser)
 
 
+# Task
+
+1. Configuracion Self-Hosted Agent  
+2. Pipeline simple usando yaml   (done)
+3. pipeline simple usando vista clasica (done)  
+4. 
+
+
 
 
 
