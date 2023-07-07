@@ -1,0 +1,45 @@
+name: 1.0
+
+
+# triggers examples
+
+# trigger:
+#  - development
+
+trigger:
+  branches:
+    include:
+      - master
+
+# trigger:
+#   branches:
+#     exclude:
+#       - development
+
+# trigger:
+#   branches:
+#     include:
+#       - feature/*
+#     paths:
+#       include:
+#         - webapp/**
+
+
+
+# complement
+variables:
+  name: devops
+  frase: Hello
+
+pool:
+  vmImage: ubuntu-latest
+
+jobs:
+  - job: trabajo1
+    steps:
+      -script: echo "$(frase). $(name)"
+
+  - job: trabajo2
+    steps:
+      - script: echo "Angel"
+       
