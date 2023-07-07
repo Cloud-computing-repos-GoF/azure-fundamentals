@@ -1,0 +1,54 @@
+name: 1.0
+
+trigger:
+  - development
+
+variables:
+  name: devops
+  frase: Hello
+
+pool:
+  vmImage: ubuntu-latest
+
+# primer ejemplo job
+# jobs:
+#   - job: trabajo1
+#     displayName: my first job
+#     continueOnError: true
+#     dependsOn: job_A
+#     container: nombreContenedor
+#     pool: nombreDelPool
+#     workspace:
+#       clean: outputs 
+#     steps:
+#       -script: echo "$(frase). $(name)"
+
+#   - job: trabajo2
+#     steps:
+#       - script: echo "Angel"
+
+
+# segundo ejemplo job
+jobs:
+  - job: A
+    steps:
+    - scripts: echo "job A" 
+  
+  - job: B
+    dependsOn: A
+    steps:
+    - scripts: echo "job B" 
+  
+  - job: C
+    dependsOn: A
+    steps:
+    - scripts: echo "job C" 
+
+  - job: D
+    dependsOn: 
+    - B
+    - C
+    steps:
+    - scripts: echo "job D" 
+
+       
