@@ -1,0 +1,39 @@
+name: 1.0
+
+trigger:
+  - development
+
+variables:
+  name: devops
+  frase: Hello
+
+pool:
+  vmImage: ubuntu-latest
+
+
+# ejemplo de tres stages, cada stage puede tener uno o mas jobs
+stages: 
+  - stage: Build
+    jobs:
+    - job: BuildJob
+      steps:
+        - script: echo Compilando!
+
+  - stage: Test
+    jobs:
+      - job: testOnWindows
+        steps:
+        - script: echo testing on testOnWindows
+      - job: testOnLinux
+        steps:
+        - script: echo Test on Linux 
+
+  - stage: Deploy
+    jobs: 
+      - job: Deploy
+        steps:
+        - script: echo Deploying the code 
+
+
+
+       
